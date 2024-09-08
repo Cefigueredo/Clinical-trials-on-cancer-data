@@ -1,3 +1,3 @@
 # Clinical trials on cancer data
 
-I get the data of people sickness and with NLP I predict if has potential cancer.
+I receive data on people's illnesses, and using NLP, I predict whether they have a potential risk of cancer.
